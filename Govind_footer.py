@@ -17,7 +17,7 @@ def show_footer():
     </style>
     <div class="footer">
         <div>&copy; All rights reserved.</div>
-        <div>CopyRight &copy; 2024 Team Gopal</div>
+        <div>CopyRight &copy; 2024 Team Gopal and Amarjeet</div>
     </div>
     """
 
