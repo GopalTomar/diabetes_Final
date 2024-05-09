@@ -1,2 +1,2 @@
-# diabetes_Final
-The Pima Indians Diabetes Dataset is a collection of health-related data from the Pima Native American tribe in Arizona, USA. It includes info like age, pregnancies, BMI, blood pressure, and glucose levels. People use this data to predict diabetes. 📊
+# HealthReportAnalyser
+It is a complete Machine Learning project. It currently works for 5 diseases but is scalable in the future. If you enter the details of the health report, it will analyze the report and predict whether the person is affected by a particular disease.
