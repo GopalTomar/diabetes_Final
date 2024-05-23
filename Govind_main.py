@@ -13,22 +13,7 @@ from Govind_Home import welcome
 from Govind_footer import show_footer
 from Govind_nav_for_all_page import NavForAll
 
-# Display the dataset using Streamlit
-st.title("Diabetes Prediction App")
-st.subheader("Diabetes Dataset")
-# st.dataframe(diabetes_dataset)
 
-# Summary statistics
-st.subheader("Dataset Summary")
-# st.write(diabetes_dataset.describe())
-
-# Class distribution
-st.subheader("Class Distribution")
-st.write(diabetes_dataset['Outcome'].value_counts())
-
-# Mean values by Outcome
-st.subheader("Mean Values by Outcome")
-st.write(diabetes_dataset.groupby('Outcome').mean())
 
 
 # Set page configuration
