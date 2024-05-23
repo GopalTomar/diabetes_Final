@@ -20,7 +20,7 @@ st.subheader("Diabetes Dataset")
 
 # Summary statistics
 st.subheader("Dataset Summary")
-st.write(diabetes_dataset.describe())
+# st.write(diabetes_dataset.describe())
 
 # Class distribution
 st.subheader("Class Distribution")
