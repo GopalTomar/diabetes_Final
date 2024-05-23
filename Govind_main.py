@@ -16,7 +16,7 @@ from Govind_nav_for_all_page import NavForAll
 # Display the dataset using Streamlit
 st.title("Diabetes Prediction App")
 st.subheader("Diabetes Dataset")
-st.dataframe(diabetes_dataset)
+# st.dataframe(diabetes_dataset)
 
 # Summary statistics
 st.subheader("Dataset Summary")
